@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi people
+Big movie guy right here, also trying to get into software development...yikes.
